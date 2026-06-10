@@ -1,0 +1,1 @@
+package absence_hard_assert;
